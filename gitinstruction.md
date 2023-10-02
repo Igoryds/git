@@ -1,3 +1,4 @@
+![Logo](Git-Logo-1788C.png)
 # Work with Git
 
 ## 1. Проверка наличия устоановленного Git
